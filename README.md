@@ -7,10 +7,12 @@ Hey, I'm yovi 👋. I enjoy exploring new technologies, building interesting pro
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kyyoa&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyyoa&theme=gotham&layout=compact&hide_border=true" />
 </p>
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kyyoa/Kyyoa/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+  <i>Eating my contributions, one square at a time.</i>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kyyoa/Kyyoa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 > Code • Learn • Build • Repeat 🚀
