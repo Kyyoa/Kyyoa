@@ -23,7 +23,7 @@
 
 ## 🎵 Currently Playing
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=[SPOTIFY_USER_ID](https://open.spotify.com/user/31koc5sbdo24kqz5xfudisluwhdi?si=c0d18cfe2e944b5e)&cover_image=true&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID)
 
 ## 📈 Contribution Graph
 
