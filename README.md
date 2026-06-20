@@ -1,5 +1,5 @@
 # 👋 Hi There
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00C896&width=500&lines=Welcome+to+my+GitHub;Always+Learning;Building+Cool+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00C896&width=500&lines=Ohh,+hey+there!+GitHub;Always+Learning;Building+Cool+Projects)](https://git.io/typing-svg)
 ## 🚀 About Me
 
 - 🌱 Learning new things
