@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hey, I'm Yovi 👋. I enjoy exploring new technologies, building interesting projects, and learning something new every day. This GitHub is where I share my progress, experiments, and ideas as I continue growing.
+. I enjoy exploring new technologies, building interesting projects, and learning something new every day. This GitHub is where I share my progress, experiments, and ideas as I continue growing.
 
 
 <p align="center">
