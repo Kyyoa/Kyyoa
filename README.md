@@ -21,11 +21,9 @@
 <img src="https://streak-stats.demolab.com?user=Yoviutenkai&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🎵 Currently Playing
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yoviutenkai&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID)
 
 ## 📈 Contribution Graph
 
