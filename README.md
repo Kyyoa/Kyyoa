@@ -1,28 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00C896&width=600&lines=Ohh,+hey+there!!;I'm+yovi+👋;Still+learning+new+things+every+day;Building+cool+stuff+one+step+at+a+time;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+# 👋 Hey There!!
 
-A Web Developer from Indonesia. Passionate about constantly learning, taking on new challenges, and building impactful web solutions. I'm always open to collaborating on exciting projects and exploring innovative ideas. Feel free to connect with me and discover more about my work here:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahdan-firdaus-a92125290/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahdan.firdaus/) 
-
-<div style="display: flex; gap: 1rem;">
-<img align="left" height='170px' src="https://github-readme-stats.vercel.app/api?username=ahdanfirdaus&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
-
-<img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdanfirdaus&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
-## ⚡Skills
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00C896&center=true&vCenter=true&width=700&lines=Ohh,+hey+there!!;I'm+Yovi;Still+learning+new+things+every+day;Building+cool+stuff+one+step+at+a+time;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
-- 🌱 Learning new technologies
-- 💻 Building projects
-- 🚀 Improving every day
-- ☕ Turning ideas into reality
-
----
+- 🌱 Constantly learning and exploring
+- 💻 Building projects that interest me
+- 🚀 Improving one step at a time
+- 🎯 Turning ideas into reality
+- ☕ Powered by curiosity
 
 ## 📊 GitHub Stats
 
@@ -31,23 +17,17 @@ A Web Developer from Indonesia. Passionate about constantly learning, taking on 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoviutenkai&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Yoviutenkai&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yoviutenkai&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yoviutenkai&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -55,49 +35,8 @@ A Web Developer from Indonesia. Passionate about constantly learning, taking on 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoviutenkai&theme=tokyo-night" />
 </p>
 
----
-
-## 💻 Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
-
----
-
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Yoviutenkai&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Yoviutenkai&style=for-the-badge)
 
----
-
-## 🎯 Current Goals
-
-- Learn advanced JavaScript
-- Build useful projects
-- Improve UI/UX skills
-- Contribute to open source
-
----
-
-> Code. Learn. Build. Repeat.
-
-⭐ Thanks for visiting my profile!
+> Code • Learn • Build • Repeat 🚀
