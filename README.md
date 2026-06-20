@@ -1,6 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00C896&center=true&vCenter=true&width=700&lines=Ohh,+hey+there!!;I'm+Yovi;Still+learning+new+things+every+day;Building+cool+stuff+one+step+at+a+time;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00C896&width=600&lines=Ohh,+hey+there!!;I'm+yovi+👋;Still+learning+new+things+every+day;Building+cool+stuff+one+step+at+a+time;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 ## 🚀 About Me
 
 - 🌱 Constantly learning and exploring
