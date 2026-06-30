@@ -9,9 +9,7 @@ Hey, I'm yovi 👋. I enjoy exploring new technologies, building interesting pro
 </p>
 
 <p align="center">
-  <i>Eating my contributions, one square at a time.</i>
-
-
+  <i>Eating my contributions, one square at a time mwehe.</i>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kyyoa/Kyyoa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
