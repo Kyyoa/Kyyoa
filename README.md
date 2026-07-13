@@ -4,8 +4,7 @@
 Hey, I'm yovi 👋. I enjoy exploring new technologies, building interesting projects, and learning something new every day. This GitHub is where I share my progress, experiments, and ideas as I continue growing. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rizky-yovi-attalla-49103a410/).
 
 <p align="center">
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyyoa&theme=gotham&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kyyoa&theme=gotham&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
